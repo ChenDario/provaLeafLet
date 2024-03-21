@@ -1,6 +1,11 @@
-#map { 
+#map{ 
     width: 50%;
     height: 500px;
+    margin-top: 10rem;
 }
 
+#testo{
+    text-align: center;
+    font-size: 3rem;
+}
 
